@@ -1,9 +1,0 @@
-- Commands
- - Anime
- - Avatar
- - Fortnite
- - Fun
- - Mod
- - Owner
- - Reddit
- - Search
